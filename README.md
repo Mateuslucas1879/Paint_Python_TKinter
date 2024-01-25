@@ -7,7 +7,7 @@
 
 #### Outras Funções:
 
-##### select_color: Escolhe a cor do pincel.
-##### eraser: Configura o pincel como uma borracha.
-##### canvas_color: Escolhe a cor de fundo do Canvas.
-##### save_drawing: Salva a tela como uma captura de tela.
+##### Select_color: Escolhe a cor do pincel.
+##### Eraser: Configura o pincel como uma borracha.
+##### Canvas_color: Escolhe a cor de fundo do Canvas.
+##### Save_drawing: Salva a tela como uma captura de tela.
