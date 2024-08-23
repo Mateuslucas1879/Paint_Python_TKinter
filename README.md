@@ -1,13 +1,22 @@
-##### Tkinter: Módulo principal para a criação de interfaces gráficas.
-##### Scale: Widget de barra deslizante usado para escolher valores numéricos.
-##### Colorchooser: Módulo que fornece uma caixa de diálogo para escolher cores.
-##### Filedialog: Módulo que permite interação com a caixa de diálogo de arquivos.
-##### Messagebox: Módulo para exibir mensagens na interface gráfica.
-##### ImageGrab: Módulo que permite capturar a tela ou partes dela.
+# Copy Assignment Painter
 
-#### Outras Funções:
+Este projeto é um aplicativo de pintura simples criado com Python e a biblioteca Tkinter. O aplicativo permite desenhar na tela, selecionar cores, apagar desenhos e salvar a tela como uma imagem.
 
-##### Select_color: Escolhe a cor do pincel.
-##### Eraser: Configura o pincel como uma borracha.
-##### Canvas_color: Escolhe a cor de fundo do Canvas.
-##### Save_drawing: Salva a tela como uma captura de tela.
+## Funcionalidades
+
+- **Desenho**: Use o ponteiro para desenhar na tela.
+- **Seleção de Cor**: Escolha a cor do ponteiro a partir de uma paleta de cores.
+- **Borracha**: Apague o desenho atual usando a função de borracha.
+- **Cor de Fundo**: Altere a cor de fundo da tela de desenho.
+- **Limpar Tela**: Limpe a tela de desenho.
+- **Salvar Imagem**: Salve o desenho atual como um arquivo de imagem.
+
+## Requisitos
+
+Certifique-se de ter o Python instalado em seu sistema. O código utiliza a biblioteca Tkinter, que é parte da biblioteca padrão do Python. Você também precisará da biblioteca Pillow (PIL) para salvar imagens.
+
+Instale a biblioteca Pillow com o seguinte comando:
+
+```bash
+pip install pillow
+
